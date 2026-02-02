@@ -2,7 +2,7 @@
 > This is a fork of the official bloxstrap  [bloxstraplabs.com](https://bloxstraplabs.com).
 
 > [!IMPORTANT]
-> Bloxstrap is not under active development anymore. Any issues or pull requests opened may take a while to get a response.
+> Maxistrap is under development soon ready to be used. Any issues or pull requests opened may take a while to get a response.
 
 <p align="center">
   <img src="Images/Maxistraplogo.jpg" width="380" alt="Maxistrap logo">
