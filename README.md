@@ -5,10 +5,10 @@
 > Bloxstrap is not under active development anymore. Any issues or pull requests opened may take a while to get a response.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Maxitech222/Maxistrap/main/Images/Maxistraplogo.jpg
-" width="380">
-    <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="380">
+  <img src="Images/Maxistraplogo-dark.png#gh-dark-mode-only" width="380">
+  <img src="Images/Maxistraplogo-light.png#gh-light-mode-only" width="380">
 </p>
+
 
 <div align="center">
 
